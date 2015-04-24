@@ -1,0 +1,4 @@
+C:\Users\TJ\Documents\Visual Studio 2013\Projects\RunningStats\RunningStats\bin\Debug\RunningStats.dll
+C:\Users\TJ\Documents\Visual Studio 2013\Projects\RunningStats\RunningStats\bin\Debug\RunningStats.pdb
+C:\Users\TJ\Documents\Visual Studio 2013\Projects\RunningStats\RunningStats\obj\Debug\RunningStats.dll
+C:\Users\TJ\Documents\Visual Studio 2013\Projects\RunningStats\RunningStats\obj\Debug\RunningStats.pdb

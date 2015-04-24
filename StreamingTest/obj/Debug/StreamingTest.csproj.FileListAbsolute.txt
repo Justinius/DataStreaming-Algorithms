@@ -1,0 +1,8 @@
+C:\Users\TJ\Documents\Visual Studio 2013\Projects\RunningStats\StreamingTest\bin\Debug\StreamingTest.exe.config
+C:\Users\TJ\Documents\Visual Studio 2013\Projects\RunningStats\StreamingTest\bin\Debug\StreamingTest.exe
+C:\Users\TJ\Documents\Visual Studio 2013\Projects\RunningStats\StreamingTest\bin\Debug\StreamingTest.pdb
+C:\Users\TJ\Documents\Visual Studio 2013\Projects\RunningStats\StreamingTest\bin\Debug\RunningStats.dll
+C:\Users\TJ\Documents\Visual Studio 2013\Projects\RunningStats\StreamingTest\bin\Debug\RunningStats.pdb
+C:\Users\TJ\Documents\Visual Studio 2013\Projects\RunningStats\StreamingTest\obj\Debug\StreamingTest.csprojResolveAssemblyReference.cache
+C:\Users\TJ\Documents\Visual Studio 2013\Projects\RunningStats\StreamingTest\obj\Debug\StreamingTest.exe
+C:\Users\TJ\Documents\Visual Studio 2013\Projects\RunningStats\StreamingTest\obj\Debug\StreamingTest.pdb
