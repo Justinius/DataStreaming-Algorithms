@@ -259,6 +259,19 @@ namespace StreamingAlgorithms
                 return maxs;
             }
         }
+        
+        public double[] means
+        {
+            get
+            {
+                double[] avgs = new double[numDims];
+                for(int i = 0; i < numDims; i++)
+                {
+                    avgs[i] = varStats[i].mean;
+                }
+                return avgs;
+            }
+        }
 
         public double[] minVals
         {
